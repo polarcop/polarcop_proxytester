@@ -1,4 +1,10 @@
 # Polar Cop Proxy Tester
+## Download:
+
+MAC: [Download](https://polarcopproxytestserver.rserumadar.now.sh/download/darwin)
+
+Windows: (Comming Soon...)
+
 A free public version of the Polar Cop Proxy Tester, a desktop application provide information on Proxies.
 
 If you are a proxy provider and wish to be listed, please contact us via email support@polarcop.com or via twitter @polar_cop (Fastest)
