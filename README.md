@@ -2,7 +2,7 @@
 ![][image_ref_cover]
 ## Download:
 
-MAC: [Download](https://polarcopproxytestserver.rserumadar.now.sh/download/darwin)
+MAC: [Download](https://proxytester.dl.polarcop.com/download/darwin)
 
 Windows: (Comming Soon...)
 
