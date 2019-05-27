@@ -1,4 +1,5 @@
 # Polar Cop Proxy Tester
+![][image_ref_cover]
 ## Download:
 
 MAC: [Download](https://polarcopproxytestserver.rserumadar.now.sh/download/darwin)
@@ -23,3 +24,4 @@ If you are a proxy provider and wish to be listed, please contact us via email s
 ## Feature Request
 To add a new feature create a pull request and add a desired feature to the list, alternatively submit a feature request via the issues section or tweet us @polar_cop.
 
+[image_ref_cover]: https://github.com/polarcop/polarcop_proxytester/blob/master/cover.png
